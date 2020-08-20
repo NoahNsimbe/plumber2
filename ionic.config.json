@@ -1,0 +1,7 @@
+{
+  "name": "plumber",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
