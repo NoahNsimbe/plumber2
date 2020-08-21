@@ -23,4 +23,7 @@ describe('TabsPage', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  // TODO: add more tests!
+
 });
